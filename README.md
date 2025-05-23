@@ -14,7 +14,7 @@ UML-диаграммы
 1. Диаграмма классов ![image1](https://github.com/Bist888/efhhhhhhhhhhhht-p/blob/main/docsdiagrams/диаграма%20классов.png)
 Название: "Основные классы системы учета финансов"
 Описание: Показывает ключевые сущности системы и их взаимосвязи.
-2. Диаграмма последовательности  ![image1] (https://github.com/Bist888/efhhhhhhhhhhhht-p/blob/main/docsdiagrams/диаграмма%20последовательсоти.png)
+2. Диаграмма последовательности  ![image1](https://github.com/Bist888/efhhhhhhhhhhhht-p/blob/main/docsdiagrams/диаграмма%20последовательсоти.png))
 Название: "Процесс добавления новой транзакции"
 Описание: Показывает взаимодействие объектов при добавлении новой финансовой операции.
 3. Диаграмма вариантов использования ![image1](https://github.com/Bist888/efhhhhhhhhhhhht-p/blob/main/docsdiagrams/диаграмма%20использовния.png)
