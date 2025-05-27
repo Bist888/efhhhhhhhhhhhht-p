@@ -201,3 +201,6 @@ FROM financial_goals g
 JOIN goal_wallets gw ON g.goal_id = gw.goal_id
 JOIN wallets w ON gw.wallet_id = w.wallet_id
 GROUP BY g.name;
+
+![image](https://github.com/user-attachments/assets/9b4cceb8-a735-46df-b14b-8577b244cd6c)
+
